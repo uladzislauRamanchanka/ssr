@@ -1,0 +1,41 @@
+.ItemImage {
+    width: 290px;
+    height: 440px;
+    cursor: pointer;
+    object-fit: cover
+}
+.ImageWrapper {
+    width: 290px;
+    position: relative;
+    
+} 
+.ItemWrapper {
+    position: relative;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.HeaderDescription {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    opacity: 0.6;
+    padding: 5px 0px;
+    width: 290px;
+}
+
+.MovieButton {
+    height: 25px;
+    position: absolute;
+    opacity: 0;
+    right: 5px;
+    top: 5px;
+}
+
+.ImageWrapper:hover .MovieButton {
+    opacity: 1;
+    cursor: pointer;
+}
+
+

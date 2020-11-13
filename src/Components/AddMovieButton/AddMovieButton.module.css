@@ -1,0 +1,15 @@
+.AddMovieButton {
+    width: 120px;
+    margin-top: 10px;
+    margin-right: 10px;
+    display: flex;
+    padding: 8px 10px;
+    justify-content: center;
+    background-color:#555555;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.ButtonText {
+    color: #F65261;
+}

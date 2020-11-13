@@ -1,0 +1,15 @@
+
+.headerBottom {
+    display:flex;
+    flex-direction: column;
+    padding-left: 80px;
+} 
+
+.titleForm {
+    color: #fff;
+    margin-top: 40px;
+    font-family: sans-serif;
+}
+
+
+

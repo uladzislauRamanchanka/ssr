@@ -1,0 +1,59 @@
+.formLabel {
+    font-size: 15px;
+    color: #f65261;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .formControl {
+    display: flex;
+    flex-direction: column;
+  }
+  .formInput {
+    width: 98%;
+    padding: 1%;
+    background-color: #555555;
+    opacity: 0.8;
+    border: #555555;
+    border-radius: 5px;
+    font-size: 15px;
+    min-height: 35px;
+  }
+  .formButton {
+    background-color: #f65261;
+    border-radius: 2px;
+    padding: 10px 55px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  .modalFooter {
+    padding: 20px;
+    display: flex;
+    margin: 10px;
+    justify-content: flex-end;
+  }
+
+  .formLabel {
+  font-size: 15px;
+  color: #f65261;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.formControl {
+  display: flex;
+  flex-direction: column;
+}
+.formInput {
+  width: 98%;
+  padding: 1%;
+  background-color: #555555;
+  opacity: 0.8;
+  border: #555555;
+  border-radius: 5px;
+  font-size: 15px;
+  min-height: 35px;
+}
+.error {
+    color: #f65261;
+    font-size: 15px;
+    padding: 0;
+}

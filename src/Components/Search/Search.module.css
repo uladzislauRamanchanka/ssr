@@ -1,0 +1,27 @@
+.searchContainer {
+    display: flex;
+}
+
+
+.inputSearch {
+    width: 70%;
+    border-radius: 5px;
+    padding: 5px;
+    background-color:#424242;
+    border: #424242;
+    min-height: 38px;
+    font-size: 22px;
+    opacity: 0.8;
+    outline: none;
+    margin-right: 10px;
+}
+
+
+.SearchButton {
+    color: #fff;
+    background-color: #F65261;
+    padding: 10px 50px;
+    font-size: 22px;
+    border-radius: 5px;
+    cursor: pointer;
+  }

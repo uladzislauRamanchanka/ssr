@@ -1,0 +1,14 @@
+.Link {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #fff;
+    text-align: center;
+    
+}
+
+.Active {
+    border-bottom: 2px solid #f65261;
+    margin-bottom: -17px;
+}
